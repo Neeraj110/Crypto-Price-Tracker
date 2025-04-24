@@ -10,3 +10,6 @@
 ```bash
 npm install
 npm run dev
+
+
+![Live Demo](./public/demo.mp4)
